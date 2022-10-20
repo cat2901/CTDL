@@ -1,1 +1,1 @@
-# c-u-tr-c-d-li-u
+# cấu trúc dữ liệu
